@@ -28,7 +28,7 @@ export default function Preview() {
           <div className="border-4 border-black overflow-hidden shadow-xl">
 
             <img
-              src="preview-page-1.png"
+              src="/master front cover1.png" 
               alt="Book Preview Page"
               className="w-full object-cover hover:scale-105 transition duration-300"
             />
@@ -39,7 +39,7 @@ export default function Preview() {
           <div className="border-4 border-black overflow-hidden shadow-xl">
 
             <img
-              src="preview-page-2.png"
+              src="/book_mockup_11.png"
               alt="Book Preview Page"
               className="w-full object-cover hover:scale-105 transition duration-300"
             />
@@ -50,7 +50,7 @@ export default function Preview() {
           <div className="border-4 border-black overflow-hidden shadow-xl">
 
             <img
-              src="book-jacket.png"
+              src="/master debater bake.png"
               alt="Book Jacket"
               className="w-full object-cover hover:scale-105 transition duration-300"
             />
